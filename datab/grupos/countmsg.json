@@ -1458,5 +1458,25 @@
         "cmd_messages": 20
       }
     ]
+  },
+  {
+    "groupId": "120363170927490455@g.us",
+    "numbers": [
+      {
+        "id": "14787876971@s.whatsapp.net",
+        "messages": 34,
+        "cmd_messages": 28
+      }
+    ]
+  },
+  {
+    "groupId": "120363167997340094@g.us",
+    "numbers": [
+      {
+        "id": "558695446752@s.whatsapp.net",
+        "messages": 13,
+        "cmd_messages": 8
+      }
+    ]
   }
 ]
